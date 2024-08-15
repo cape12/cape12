@@ -1,3 +1,7 @@
-## 안녕하세요!
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-단순히 '마인크래프트' 하는 사람입니다!
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+</div>
